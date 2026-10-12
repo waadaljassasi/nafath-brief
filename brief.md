@@ -35,3 +35,6 @@ A common misconception about Software Engineering is that it is only about writi
 
 Source: DEV Community – https://dev.to/msnmongare/the-first-big-mistake-thinking-software-engineering-is-just-coding-490d
 ## Open Question
+How can government organizations ensure that AI assistants provide accurate, secure, and reliable answers to citizens? This question is important because AI systems depend on good-quality data, strong security, and proper management. Understanding how to address these challenges can help governments improve their digital services and build public trust.
+
+Source: Capgemini Research Institute – https://www.capgemini.com/insights/research-library/data-and-ai-for-public-services/
