@@ -31,5 +31,7 @@ Data management helps organizations collect, organize, store, and protect inform
 
 Source: Google Cloud – https://cloud.google.com/learn/what-is-data-governance
 ## Misconception in My Track
+A common misconception about Software Engineering is that it is only about writing code. In fact, software engineers need to understand problems, design solutions, test software, and maintain systems. For example, developing a government AI assistant requires more than coding. Developers must understand users’ needs, protect information, and make sure the system works correctly. Coding is important, but it is only one part of Software Engineering.
 
+Source: DEV Community – https://dev.to/msnmongare/the-first-big-mistake-thinking-software-engineering-is-just-coding-490d
 ## Open Question
