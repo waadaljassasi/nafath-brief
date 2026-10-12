@@ -27,7 +27,9 @@ Prompt injection is a security risk that happens when someone tries to make an A
 Source: Coursiv – https://coursiv.io/blog/what-is-prompt-injection
 
 ## Data
+Data management helps organizations collect, organize, store, and protect information. Good data management is important for AI systems because they need accurate and trustworthy information to provide useful answers. For example, a government AI assistant should use reliable and updated information about public services. It is also important to protect personal data and allow only authorized users to access sensitive information.
 
+Source: Google Cloud – https://cloud.google.com/learn/what-is-data-governance
 ## Misconception in My Track
 
 ## Open Question
