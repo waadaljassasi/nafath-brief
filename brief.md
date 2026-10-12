@@ -18,7 +18,9 @@ Mobile applications should use secure network connections when sending informati
 
 Source: Apple Developer Documentation – https://developer.apple.com/documentation/security/preventing-insecure-network-connections
 ## Networking
+IPv4 and IPv6 are two versions of the Internet Protocol used to identify devices and help them communicate over networks. IPv4 uses 32-bit addresses and can provide about 4.3 billion unique addresses. IPv6 uses 128-bit addresses and provides a much larger number of addresses. IPv6 was developed because the number of internet-connected devices increased and IPv4 addresses became limited. For example, smartphones, computers, and smart devices need IP addresses to communicate. Both protocols are important for network communication, but IPv6 supports a much larger number of devices.
 
+Source: Coursera – https://www.coursera.org/articles/ipv4-vs-ipv6
 ## Cybersecurity
 
 ## Data
