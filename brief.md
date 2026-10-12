@@ -22,6 +22,9 @@ IPv4 and IPv6 are two versions of the Internet Protocol used to identify devices
 
 Source: Coursera – https://www.coursera.org/articles/ipv4-vs-ipv6
 ## Cybersecurity
+Prompt injection is a security risk that happens when someone tries to make an AI system follow harmful instructions instead of its original task. These instructions may come from a user or be hidden in a webpage or document. For example, an attacker may try to make a government AI assistant provide incorrect information or reveal private data. Developers can reduce this risk by limiting access to sensitive information, checking actions, and testing the system regularly.
+
+Source: Coursiv – https://coursiv.io/blog/what-is-prompt-injection
 
 ## Data
 
