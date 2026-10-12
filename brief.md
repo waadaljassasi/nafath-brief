@@ -14,7 +14,9 @@ Retrieval-Augmented Generation (RAG) is a technique that helps AI provide answer
 
 Source: Coursiv – https://coursiv.io/blog/what-is-rag-in-ai
 ## Mobile
+Mobile applications should use secure network connections when sending information to a server. HTTPS helps protect data while it travels between the application and the server by using TLS encryption. This helps reduce the risk of attackers reading or changing the data during communication. For example, a government mobile application should protect citizens’ information when they ask an AI assistant about a service. Developers should avoid insecure connections and follow Apple’s security recommendations to help keep the application and its users safe.
 
+Source: Apple Developer Documentation – https://developer.apple.com/documentation/security/preventing-insecure-network-connections
 ## Networking
 
 ## Cybersecurity
