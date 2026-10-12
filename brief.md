@@ -10,7 +10,9 @@ Sources:
 * Boomi: https://boomi.com/blog/what-is-api-versioning/
 * Semantic Versioning: https://semver.org/
 ## AI
+Retrieval-Augmented Generation (RAG) is a technique that helps AI provide answers using information from selected sources. First, the system searches for information related to the user’s question. Then, it gives the relevant information to the AI model to help it generate an answer. RAG can help reduce incorrect answers because the model has information to use instead of relying only on its existing knowledge. For example, a government assistant can search official service information before answering a citizen’s question. However, RAG does not guarantee that every answer is correct, so the information and sources should still be checked.
 
+Source: Coursiv – https://coursiv.io/blog/what-is-rag-in-ai
 ## Mobile
 
 ## Networking
